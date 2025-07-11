@@ -112,3 +112,4 @@ For questions or contributions:
 ---
 
 > 🧬 *This project is part of the ACTE research group (Autism in Context: Theory and Experiment).*
+> 💰 *This project is funded by an ARC (Actions de Recherche Concertées – Université libre de Bruxelles).*
