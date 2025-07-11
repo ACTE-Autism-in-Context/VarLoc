@@ -38,7 +38,7 @@ If you're interested in having your child participate, you can:
   `annabelle.merchie@ulb.be`  
   `chaimae.chouaa@ulb.be`
 
-We will get in touch with you shortly after registration.
+We will get in touch with you shortly after.
 
 ---
 
