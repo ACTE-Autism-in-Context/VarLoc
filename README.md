@@ -3,7 +3,6 @@
 **Principal Investigator**: Prof. Gaétane DELIENS (gaetane.deliens@ulb.be)  
 **Co-investigators**: Dr. Annabelle MERCHIE (annabelle.merchie@ulb.be) & Chaimae CHOUAA (chaimae.chouaa@ulb.be)
 
----
 
 ---
 
@@ -26,8 +25,8 @@ The study consists of **two fun experimental sessions**, on two consecutive days
 
 ### 📄 More Information
 
-- 📘 [Read the full study information sheet (in French)](LINK_TO_PDF)
-- 📎 [Download the recruitment flyer (in French)](LINK_TO_FLYER)
+- 📘 [Read the full study information sheet (in French)](Ethique/Consentement-maj-TDL.pdf)
+- 📎 [Download the recruitment flyer (in French)](Ethique/Flyer-TDL.pdf)
 
 > You may also add a small recruitment image here:  
 > `![Recruitment poster](link/to/image.jpg)`
@@ -37,7 +36,6 @@ The study consists of **two fun experimental sessions**, on two consecutive days
 🟢 **Recruitment is ongoing.**  
 If you're interested in having your child participate, you can:
 
-- ✅ [Register here](LINK_TO_REGISTRATION_FORM)  
 - ✉️ Contact us directly:  
   `annabelle.merchie@ulb.be`  
   `chaimae.chouaa@ulb.be`
@@ -45,6 +43,10 @@ If you're interested in having your child participate, you can:
 We will get in touch with you shortly after registration.
 
 ---
+
+
+
+
 
 
 
