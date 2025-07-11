@@ -28,8 +28,6 @@ The study consists of **two fun experimental sessions**, on two consecutive days
 - 📘 [Read the full study information sheet (in French)](Ethique/Consentement-maj-TDL.pdf)
 - 📎 [Download the recruitment flyer (in French)](Ethique/Flyer-TDL.pdf)
 
-> You may also add a small recruitment image here:  
-> `![Recruitment poster](link/to/image.jpg)`
 
 ### 📬 Status
 
